@@ -1,0 +1,37 @@
+name: Upload novaplay.apk to HankNova
+
+on:
+  push:
+    paths:
+      - "apks/novaplay.apk"
+  workflow_dispatch:
+
+concurrency:
+  group: hanknova-novaplay.apk
+  cancel-in-progress: false
+
+jobs:
+  upload:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Subir novaplay.apk a NovaplayGO/updater
+        run: |
+          git config --global user.name "HankNova Auto-Updater"
+          git config --global user.email "updater@hanknova.com"
+          git clone https://x-access-token:${{ secrets.UPDATER_TOKEN }}@github.com/NovaplayGO/updater.git temp_repo
+          mkdir -p temp_repo/apks
+          cp apks/novaplay.apk temp_repo/apks/
+          cd temp_repo
+          git add apks/novaplay.apk
+          git commit -m "Update: novaplay.apk" || exit 0
+          git push origin main || (git pull origin main --rebase && git push origin main)
+
+      - name: Trigger NovaApps Update
+        run: |
+          curl -X POST https://api.github.com/repos/novaplaytv/NovaApps/dispatches \
+          -H "Accept: application/vnd.github.v3+json" \
+          -H "Authorization: token ${{ secrets.ADMIN_TOKEN }}" \
+          -d '{"event_type": "on-app-update"}'
+

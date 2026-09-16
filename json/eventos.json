@@ -1,0 +1,18 @@
+{
+  "texto": "Nuevo: CANAL FOX+ (FOX ONE PLUS) AÑADIDO EN SECCIÓN DEPORTES",
+  "activo": false,
+  "eventoVersion": 39,
+  "fecha": "2026-08-26",
+  "fecha-hasta": "2050-12-31",
+  "desde": "00:01",
+  "hasta": "23:59",
+  "v2": {
+    "popupVersion": 17,
+    "activado": false,
+    "titulo": "📢 AVISO IMPORTANTE",
+    "parrafos": [
+      "Verificamos y estamos ante una caída del 25% de los canales de la APP. (Serían 112 canales los que tenemos inconvenientes). Se estará trabajando arduamente en intentar restaurar las mismas. // Sección DEPORTES - CANALES ESPN se restauró con respaldos que ya poseíamos.-"
+    ]
+  },
+  "mostrarEnReproductor": true
+}
