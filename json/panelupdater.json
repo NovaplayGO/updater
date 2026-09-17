@@ -1,10 +1,10 @@
-{
+﻿{
     "force_update":  false,
     "changelog":  [
-                      "Mejoras en el Splash: visualización dinámica de la versión",
-                      "Optimización de recursos internos"
+                      "Actualización de panel 1.3.2",
+                      "Mejoras en el Dashboard"
                   ],
-    "version_code":  131,
-    "version":  "1.3.1",
+    "version_code":  132,
+    "version":  "1.3.2",
     "apk_url":  "https://github.com/novaplaygo/updater/raw/main/apks/novapanel.apk"
 }

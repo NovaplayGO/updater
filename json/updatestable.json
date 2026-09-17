@@ -1,16 +1,15 @@
-{
-    "version":  "5.1.1",
-    "version_code":  511,
+﻿{
+    "version":  "5.1.3",
+    "version_code":  513,
     "min-version":  "5.1.1",
     "min-version_code":  511,
     "size":  "17,0 MB",
-    "texto":  "Actualización Obligatoria",
+    "texto":  "ActualizaciÃ³n Obligatoria",
     "force_update":  false,
     "apk_url":  "https://github.com/novaplaygo/updater/raw/main/apks/novaplay.apk",
     "changelog":  [
-                      "- Optimización de Red: Migración a NovaLogic para ahorro de consumo Edge.",
-                      "- Seguridad: Escudo Anti-Tampering reforzado.",
-                      "- Estabilidad: Mejoras en la carga de listas grandes."
+                      "Mejoras de estabilidad",
+                      "Optimización de red"
                   ],
     "novacodecs":  {
                        "version":  "1.5",
