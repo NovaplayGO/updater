@@ -29,9 +29,19 @@ jobs:
         run: |
           python << 'EOF'
           import os, requests
-          url_logic = f"{os.environ['SUPABASE_URL']}/storage/v1/object/NovaLogic/token.json"
-          url_connect = f"{os.environ['SUPABASE_URL']}/storage/v1/object/novaconnect/token.json"
-          headers = {"Authorization": f"Bearer {os.environ['SUPABASE_SERVICE_ROLE_KEY']}", "apikey": os.environ['SUPABASE_SERVICE_ROLE_KEY'], "Content-Type": "application/json", "x-upsert": "true"}
+          url = os.environ['SUPABASE_URL'].strip()
+          key = os.environ['SUPABASE_SERVICE_ROLE_KEY'].strip()
+
+          url_logic = f"{url}/storage/v1/object/NovaLogic/{os.path.basename('json/token.json')}"
+          url_connect = f"{url}/storage/v1/object/novaconnect/{os.path.basename('json/token.json')}"
+
+          headers = {
+              "Authorization": f"Bearer {key}",
+              "apikey": key,
+              "Content-Type": "application/json",
+              "x-upsert": "true"
+          }
+
           with open("json/token.json", "rb") as f:
               data = f.read()
               r1 = requests.post(url_logic, headers=headers, data=data)
