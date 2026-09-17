@@ -6,7 +6,7 @@
     "size":  "17,0 MB",
     "texto":  "ActualizaciÃ³n Opcional",
     "force_update":  false,
-    "apk_url":  "https://github.com/NovaplayGO/updater/raw/main/apks/novaplaybeta.apk",
+    "apk_url":  "https://github.com/novaplaygo/updater/raw/main/apks/novaplaybeta.apk",
     "changelog":  [
                       "- OptimizaciÃ³n de Audio (AFTKM): SincronizaciÃ³n agresiva para evitar desfases en Fire TV 4K Max.",
                       "- Estabilidad de RAM (AFTSS): Ajuste dinÃ¡mico de buffer para evitar cierres en Fire Stick Lite (1GB RAM).",
@@ -17,7 +17,7 @@
     "novacodecs":  {
                        "version":  "1.5",
                        "version_code":  6,
-                       "apk_url":  "https://github.com/NovaplayGO/updater/raw/main/apks/novacodecs.apk"
+                       "apk_url":  "https://github.com/novaplaygo/updater/raw/main/apks/novacodecs.apk"
                    },
     "date":  "2026-09-15T10:51:42Z"
 }

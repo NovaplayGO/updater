@@ -20,7 +20,7 @@ jobs:
         run: |
           git config --global user.name "HankNova Auto-Updater"
           git config --global user.email "updater@hanknova.com"
-          git clone https://x-access-token:${{ secrets.UPDATER_TOKEN }}@github.com/NovaplayGO/updater.git temp_repo
+          git clone https://x-access-token:${{ secrets.UPDATER_TOKEN }}@github.com/novaplaygo/updater.git temp_repo
           mkdir -p temp_repo/apks
           cp apks/novapanel.apk temp_repo/apks/
           cd temp_repo

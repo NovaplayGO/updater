@@ -6,7 +6,7 @@
     "size":  "17,0 MB",
     "texto":  "ActualizaciÃ³n Obligatoria",
     "force_update":  false,
-    "apk_url":  "https://github.com/NovaplayGO/updater/raw/main/apks/novaplay.apk",
+    "apk_url":  "https://github.com/novaplaygo/updater/raw/main/apks/novaplay.apk",
     "changelog":  [
                       "- OptimizaciÃ³n de Red: MigraciÃ³n a NovaLogic para ahorro de consumo Edge.",
                       "- Seguridad: Escudo Anti-Tampering reforzado.",
@@ -15,7 +15,7 @@
     "novacodecs":  {
                        "version":  "1.5",
                        "version_code":  6,
-                       "apk_url":  "https://github.com/NovaplayGO/updater/raw/main/apks/novacodecs.apk"
+                       "apk_url":  "https://github.com/novaplaygo/updater/raw/main/apks/novacodecs.apk"
                    },
     "date":  "2026-09-15T10:51:42Z"
 }
