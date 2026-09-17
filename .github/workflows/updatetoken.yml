@@ -13,15 +13,19 @@ concurrency:
 jobs:
   upload:
     runs-on: ubuntu-latest
+
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+
       - name: Setup Python
         uses: actions/setup-python@v5
         with:
           python-version: "3.12"
+
       - name: Instalar Requests
         run: pip install requests
+
       - name: Subir token.json a Supabase Storage
         env:
           SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
@@ -29,12 +33,10 @@ jobs:
         run: |
           python << 'EOF'
           import os, requests
-          url = os.environ['SUPABASE_URL'].strip()
+          url_base = os.environ['SUPABASE_URL'].strip()
           key = os.environ['SUPABASE_SERVICE_ROLE_KEY'].strip()
 
-          url_logic = f"{url}/storage/v1/object/NovaLogic/{os.path.basename('json/token.json')}"
-          url_connect = f"{url}/storage/v1/object/novaconnect/{os.path.basename('json/token.json')}"
-
+          buckets = ["NovaLogic", "Novaplay", "novaconnect"]
           headers = {
               "Authorization": f"Bearer {key}",
               "apikey": key,
@@ -42,11 +44,14 @@ jobs:
               "x-upsert": "true"
           }
 
-          with open("json/token.json", "rb") as f:
+          file_path = "json/token.json"
+          if not os.path.exists(file_path):
+              file_path = "token.json" # Fallback to root if not in json/
+
+          with open(file_path, "rb") as f:
               data = f.read()
-              r1 = requests.post(url_logic, headers=headers, data=data)
-              print(f"NovaLogic: {r1.status_code}")
-              r2 = requests.post(url_connect, headers=headers, data=data)
-              print(f"novaconnect Mirror: {r2.status_code}")
-          if r1.status_code >= 400 or r2.status_code >= 400: exit(1)
+              for bucket in buckets:
+                  url = f"{url_base}/storage/v1/object/{bucket}/token.json"
+                  r = requests.post(url, headers=headers, data=data)
+                  print(f"Bucket {bucket} (token.json): {r.status_code}")
           EOF
