@@ -30,7 +30,7 @@ jobs:
 
       - name: Trigger NovaApps Update
         run: |
-          curl -X POST https://api.github.com/repos/novaplaytv/NovaApps/dispatches \
+          curl -X POST https://api.github.com/repos/NovaplayGO/NovaApps/dispatches \
           -H "Accept: application/vnd.github.v3+json" \
           -H "Authorization: token ${{ secrets.ADMIN_TOKEN }}" \
           -d '{"event_type": "on-app-update"}'
