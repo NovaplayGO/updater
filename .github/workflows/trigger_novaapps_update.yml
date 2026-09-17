@@ -1,0 +1,19 @@
+name: Trigger NovaApps Update
+
+on:
+  push:
+    paths:
+      - "apks/**"
+      - "json/**"
+  workflow_dispatch:
+
+jobs:
+  trigger:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Dispatch Event to NovaApps
+        run: |
+          curl -X POST https://api.github.com/repos/NovaplayGO/NovaApps/dispatches \
+          -H "Accept: application/vnd.github.v3+json" \
+          -H "Authorization: token ${{ secrets.ADMIN_TOKEN }}" \
+          -d '{"event_type": "on-app-update"}'
