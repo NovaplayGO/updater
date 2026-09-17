@@ -13,20 +13,16 @@ concurrency:
 jobs:
   upload:
     runs-on: ubuntu-latest
-
     steps:
       - name: Checkout
         uses: actions/checkout@v4
-
       - name: Setup Python
         uses: actions/setup-python@v5
         with:
           python-version: "3.12"
-
       - name: Instalar Requests
         run: pip install requests
-
-      - name: Subir token.json a Supabase Buckets
+      - name: Subir token.json a Supabase
         env:
           SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
           SUPABASE_SERVICE_ROLE_KEY: ${{ secrets.SUPABASE_SERVICE_ROLE_KEY }}
@@ -36,8 +32,8 @@ jobs:
           url_base = os.environ['SUPABASE_URL'].strip()
           key = os.environ['SUPABASE_SERVICE_ROLE_KEY'].strip()
 
-          # TRIPLE BUCKET STRATEGY (v175)
-          buckets = ["NovaLogic", "Novaplay", "novaconnect"]
+          # ESTRATEGIA DUAL: NovaLogic (Nuevo) y novaconnect (Retrocompatibilidad)
+          buckets = ["NovaLogic", "novaconnect"]
           headers = {
               "Authorization": f"Bearer {key}",
               "apikey": key,
@@ -45,14 +41,14 @@ jobs:
               "x-upsert": "true"
           }
 
-          # Source is in json/ folder in repo
           file_path = "json/token.json"
+          if not os.path.exists(file_path): file_path = "token.json"
 
           with open(file_path, "rb") as f:
               data = f.read()
               for bucket in buckets:
-                  # Upload to ROOT of each bucket
                   url = f"{url_base}/storage/v1/object/{bucket}/token.json"
                   r = requests.post(url, headers=headers, data=data)
-                  print(f"Bucket {bucket} (token.json): {r.status_code}")
+                  print(f"Bucket {bucket}: {r.status_code}")
+          if r.status_code >= 400: exit(1)
           EOF
