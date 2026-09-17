@@ -1,7 +1,7 @@
 {
-  "texto": "Nuevo: CANAL FOX+ (FOX ONE PLUS) AÑADIDO EN SECCIÓN DEPORTES",
-  "activo": false,
-  "eventoVersion": 39,
+  "texto": "Nueva Actualización Disponible. Se recomienda actualizar por migración a nuevo Servidor.-",
+  "activo": true,
+  "eventoVersion": 40,
   "fecha": "2026-08-26",
   "fecha-hasta": "2050-12-31",
   "desde": "00:01",
