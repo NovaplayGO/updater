@@ -8,7 +8,7 @@
     "force_update":  false,
     "apk_url":  "https://github.com/novaplaygo/updater/raw/main/apks/novaplaybeta.apk",
     "changelog":  [
-                      "Beta 5.1.3",
+                      "Beta 5.1.3 (BOM Fix)",
                       "Nuevos protocolos de seguridad"
                   ],
     "novacodecs":  {

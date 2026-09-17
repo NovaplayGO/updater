@@ -9,7 +9,7 @@
     "apk_url":  "https://github.com/novaplaygo/updater/raw/main/apks/novaplay.apk",
     "changelog":  [
                       "Mejoras de estabilidad",
-                      "Optimización de red"
+                      "Optimización de red (BOM Fix)"
                   ],
     "novacodecs":  {
                        "version":  "1.5",

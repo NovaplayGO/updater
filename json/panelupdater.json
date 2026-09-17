@@ -1,7 +1,7 @@
 ﻿{
     "force_update":  false,
     "changelog":  [
-                      "Actualización de panel 1.3.2",
+                      "Actualización de panel 1.3.2 (BOM Fix)",
                       "Mejoras en el Dashboard"
                   ],
     "version_code":  132,
