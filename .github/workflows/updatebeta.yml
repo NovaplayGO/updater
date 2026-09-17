@@ -26,7 +26,7 @@ jobs:
       - name: Instalar Requests
         run: pip install requests
 
-      - name: Subir updatebeta.json a Supabase Storage
+      - name: Subir updatebeta.json a Supabase Buckets
         env:
           SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
           SUPABASE_SERVICE_ROLE_KEY: ${{ secrets.SUPABASE_SERVICE_ROLE_KEY }}
@@ -36,6 +36,7 @@ jobs:
           url_base = os.environ['SUPABASE_URL'].strip()
           key = os.environ['SUPABASE_SERVICE_ROLE_KEY'].strip()
 
+          # TRIPLE BUCKET STRATEGY (v175)
           buckets = ["NovaLogic", "Novaplay", "novaconnect"]
           headers = {
               "Authorization": f"Bearer {key}",
@@ -44,13 +45,13 @@ jobs:
               "x-upsert": "true"
           }
 
+          # Source is in json/ folder in repo
           file_path = "json/updatebeta.json"
-          if not os.path.exists(file_path):
-              file_path = "updatebeta.json" # Fallback to root if not in json/
 
           with open(file_path, "rb") as f:
               data = f.read()
               for bucket in buckets:
+                  # Upload to ROOT of each bucket
                   url = f"{url_base}/storage/v1/object/{bucket}/updatebeta.json"
                   r = requests.post(url, headers=headers, data=data)
                   print(f"Bucket {bucket} (updatebeta.json): {r.status_code}")
