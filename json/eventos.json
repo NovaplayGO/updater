@@ -1,7 +1,7 @@
 {
-  "texto": "Nueva Actualización Disponible. Se recomienda actualizar por migración a nuevo Servidor.-",
+  "texto": "Nueva Actualización Disponible. Se recomienda actualizar por migración a nuevo Servidor.",
   "activo": true,
-  "eventoVersion": 40,
+  "eventoVersion": 41,
   "fecha": "2026-08-26",
   "fecha-hasta": "2050-12-31",
   "desde": "00:01",
