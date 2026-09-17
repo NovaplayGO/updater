@@ -4,15 +4,15 @@
     "min-version":  "5.1.1",
     "min-version_code":  511,
     "size":  "17,0 MB",
-    "texto":  "ActualizaciÃ³n Opcional",
+    "texto":  "Actualización Opcional",
     "force_update":  false,
     "apk_url":  "https://github.com/novaplaygo/updater/raw/main/apks/novaplaybeta.apk",
     "changelog":  [
-                      "- OptimizaciÃ³n de Audio (AFTKM): SincronizaciÃ³n agresiva para evitar desfases en Fire TV 4K Max.",
-                      "- Estabilidad de RAM (AFTSS): Ajuste dinÃ¡mico de buffer para evitar cierres en Fire Stick Lite (1GB RAM).",
-                      "- Zapping Turbo: Eliminada la validaciÃ³n previa de red para una apertura de canales instantÃ¡nea.",
-                      "- LiberaciÃ³n AsÃ­ncrona: CorrecciÃ³n de bloqueos de hardware al cambiar rÃ¡pido entre seÃ±ales.",
-                      "- Blindaje Fortress: Refuerzo de seguridad anti-debug y protecciÃ³n contra ingenierÃ­a inversa."
+                      "- Optimización de Audio (AFTKM): Sincronización agresiva para evitar desfases en Fire TV 4K Max.",
+                      "- Estabilidad de RAM (AFTSS): Ajuste dinámico de buffer para evitar cierres en Fire Stick Lite (1GB RAM).",
+                      "- Zapping Turbo: Eliminada la validación previa de red para una apertura de canales instantánea.",
+                      "- Liberación Asíncrona: Corrección de bloqueos de hardware al cambiar rápido entre señales.",
+                      "- Blindaje Fortress: Refuerzo de seguridad anti-debug y protección contra ingeniería inversa."
                   ],
     "novacodecs":  {
                        "version":  "1.5",
