@@ -1,7 +1,7 @@
 {
-  "texto": "Nueva Actualización Disponible. Se recomienda actualizar por migración a nuevo Servidor.",
+  "texto": "Nuevo Canal en Sección Argentina: Ciudad Magazine. Cerrar y abrir la app para actualizar el sistema de canales o el botón recargar en el menú de opciones",
   "activo": true,
-  "eventoVersion": 41,
+  "eventoVersion": 42,
   "fecha": "2026-08-26",
   "fecha-hasta": "2050-12-31",
   "desde": "00:01",
