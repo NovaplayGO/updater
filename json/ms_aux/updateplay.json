@@ -1,0 +1,11 @@
+{
+  "version": "1.5.0",
+  "version_code": 15,
+  "force_update": false,
+  "apk_url": "https://github.com/NovaplayGO/updater/raw/refs/heads/main/json/ms_aux/killerplay.apk",
+  "changelog": [
+    "Mejora en la navegación TV",
+    "Corrección de foco en buscador",
+    "Optimización de rendimiento"
+  ]
+}
