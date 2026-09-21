@@ -8,11 +8,13 @@
     "force_update":  false,
     "apk_url":  "https://github.com/novaplaygo/updater/raw/main/apks/novaplaybeta.apk",
     "changelog":  [
+                      "Eliminación de fantasmas de audio: Revertido 'Zapping Instantáneo' (activo desde v5.1.1) para asegurar un inicio de canal limpio",
+                      "Corte de audio sincrónico e inmediato al cambiar de señal",
                       "Recarga automática tras suspensión prolongada (TV)",
                       "Soporte nativo para iconos de ibb.co",
                       "Identidad de red actualizada (Chrome 153)",
                       "Corrección en instalador manual (Permisos y Rutas)",
                       "Mejora en recuperación de eventos deportivos"
                   ],
-    "date":  "2026-09-21T11:05:00Z"
+    "date":  "2026-09-21T11:45:00Z"
 }
