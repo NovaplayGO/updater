@@ -4,18 +4,20 @@
     "min-version":  "5.1.1",
     "min-version_code":  511,
     "size":  "17,2 MB",
-    "texto":  "Beta 5.1.4 - Mejoras en TV y Soporte de Iconos",
+    "texto":  "Beta 5.1.4 - Estabilidad en TV y Mejoras de Red",
     "force_update":  false,
     "apk_url":  "https://github.com/novaplaygo/updater/raw/main/apks/novaplaybeta.apk",
     "changelog":  [
-                      "Recarga automática tras suspensión (TV)",
-                      "Soporte para iconos de ibb.co",
-                      "Optimización de red y DNS"
+                      "Recarga automática tras suspensión prolongada (TV)",
+                      "Soporte nativo para iconos de ibb.co",
+                      "Identidad de red actualizada (Chrome 153)",
+                      "Corrección en instalador manual (Permisos y Rutas)",
+                      "Mejora en recuperación de eventos deportivos"
                   ],
     "novacodecs":  {
                        "version":  "1.5",
                        "version_code":  6,
                        "apk_url":  "https://github.com/novaplaygo/updater/raw/main/apks/novacodecs.apk"
                    },
-    "date":  "2026-09-20T18:15:00Z"
+    "date":  "2026-09-21T11:05:00Z"
 }
