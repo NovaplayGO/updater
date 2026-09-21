@@ -14,10 +14,5 @@
                       "Corrección en instalador manual (Permisos y Rutas)",
                       "Mejora en recuperación de eventos deportivos"
                   ],
-    "novacodecs":  {
-                       "version":  "1.5",
-                       "version_code":  6,
-                       "apk_url":  "https://github.com/novaplaygo/updater/raw/main/apks/novacodecs.apk"
-                   },
     "date":  "2026-09-21T11:05:00Z"
 }

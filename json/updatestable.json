@@ -11,10 +11,5 @@
                       "Mejoras de estabilidad",
                       "Optimización de red (BOM Fix)"
                   ],
-    "novacodecs":  {
-                       "version":  "1.5",
-                       "version_code":  6,
-                       "apk_url":  "https://github.com/novaplaygo/updater/raw/main/apks/novacodecs.apk"
-                   },
     "date":  "2026-09-15T10:51:42Z"
 }
