@@ -2,10 +2,12 @@
   "version": "1.5.0",
   "version_code": 15,
   "force_update": false,
-  "apk_url": "https://github.com/NovaplayGO/updater/raw/refs/heads/main/json/ms_aux/killerplay.apk",
+  "apk_url": "https://github.com/NovaplayGO/updater/raw/main/json/ms_aux/killerplay.apk",
   "changelog": [
-    "Mejora en la navegación TV",
-    "Corrección de foco en buscador",
-    "Optimización de rendimiento"
-  ]
+    "Mejora en la navegación TV y foco en buscador",
+    "Identidad de red actualizada (Chrome 153)",
+    "Corrección en instalador manual (Permisos y Rutas)",
+    "Optimización de carga de iconos"
+  ],
+  "date": "2026-09-21T11:20:00Z"
 }
