@@ -4,17 +4,17 @@
     "min-version":  "5.1.1",
     "min-version_code":  511,
     "size":  "17,2 MB",
-    "texto":  "Beta 5.1.4 - Estabilidad en TV y Mejoras de Red",
+    "texto":  "Beta 5.1.4 - Estabilidad en TV y Calidad Adaptativa",
     "force_update":  false,
     "apk_url":  "https://github.com/novaplaygo/updater/raw/main/apks/novaplaybeta.apk",
     "changelog":  [
-                      "Eliminación de fantasmas de audio: Revertido 'Zapping Instantáneo' (activo desde v5.1.1) para asegurar un inicio de canal limpio",
+                      "Nueva Calidad Adaptativa: Ajuste automático de resolución según velocidad de internet (360p/480p/HD)",
+                      "Eliminación de fantasmas de audio: Revertido 'Zapping Instantáneo' (activo desde v5.1.1) para asegurar un inicio limpio",
                       "Corte de audio sincrónico e inmediato al cambiar de señal",
                       "Recarga automática tras suspensión prolongada (TV)",
                       "Soporte nativo para iconos de ibb.co",
                       "Identidad de red actualizada (Chrome 153)",
-                      "Corrección en instalador manual (Permisos y Rutas)",
-                      "Mejora en recuperación de eventos deportivos"
+                      "Corrección en instalador manual (Permisos y Rutas)"
                   ],
-    "date":  "2026-09-21T11:45:00Z"
+    "date":  "2026-09-21T12:30:00Z"
 }
