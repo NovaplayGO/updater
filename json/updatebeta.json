@@ -4,14 +4,14 @@
     "min-version":  "5.1.1",
     "min-version_code":  511,
     "size":  "17.9 MB",
-    "texto":  "Beta 5.1.4 - Actualizador Manual Optimizado",
+    "texto":  "Beta 5.1.4 - Detección de Canales Fuera de Línea",
     "force_update":  false,
     "apk_url":  "https://github.com/novaplaygo/updater/raw/main/apks/novaplaybeta.apk",
     "changelog":  [
+                      "Detección de canales fuera de línea (respuestas HTML) con aviso y reconexión automática",
                       "Actualizador manual optimizado: descarga e instalación directa desde canal Beta",
                       "Modo manual ignora preferencia Estable para ofrecer siempre el último APK",
-                      "Mejoras de rendimiento y estabilización de UI en Smart TV",
-                      "Saneamiento y correcciones internas en el sistema de actualizaciones"
+                      "Mejoras de rendimiento y estabilización de UI en Smart TV"
                   ],
-    "date":  "2026-09-22T08:20:00Z"
+    "date":  "2026-09-22T12:50:00Z"
 }
