@@ -4,14 +4,15 @@
     "min-version":  "5.1.1",
     "min-version_code":  511,
     "size":  "17.9 MB",
-    "texto":  "Beta 5.1.4 - Detección de Canales Fuera de Línea",
+    "texto":  "Beta 5.1.4 - Motor EPG Ligero & Detección Canal Fuera de Línea",
     "force_update":  false,
     "apk_url":  "https://github.com/novaplaygo/updater/raw/main/apks/novaplaybeta.apk",
     "changelog":  [
+                      "Optimización de motor EPG: Carga ultra-rápida, menor consumo de RAM y mejor vinculación de guía",
                       "Detección de canales fuera de línea (respuestas HTML) con aviso y reconexión automática",
                       "Actualizador manual optimizado: descarga e instalación directa desde canal Beta",
                       "Modo manual ignora preferencia Estable para ofrecer siempre el último APK",
                       "Mejoras de rendimiento y estabilización de UI en Smart TV"
                   ],
-    "date":  "2026-09-22T12:50:00Z"
+    "date":  "2026-09-23T01:45:00Z"
 }
