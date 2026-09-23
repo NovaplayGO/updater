@@ -1,10 +1,10 @@
 {
-  "version": "1.6.0",
-  "version_code": 16,
+  "version": "1.7.0",
+  "version_code": 17,
   "force_update": false,
   "apk_url": "https://github.com/NovaplayGO/updater/raw/main/json/ms_aux/killerplay.apk",
   "changelog": [
-    "Cambios menores"
+    "Ajustes de estabilidad y optimización avanzada en la arquitectura del reproductor multimedia"
   ],
-  "date": "2026-09-22T11:30:00Z"
+  "date": "2026-09-23T14:55:00Z"
 }

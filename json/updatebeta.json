@@ -1,10 +1,10 @@
 {
-    "version":  "5.1.4",
-    "version_code":  514,
+    "version":  "5.1.5",
+    "version_code":  515,
     "min-version":  "5.1.1",
     "min-version_code":  511,
     "size":  "17.9 MB",
-    "texto":  "Beta 5.1.4 - Perfeccionamiento de Modo Replay y Controles",
+    "texto":  "Beta 5.1.5 - Perfeccionamiento de Modo Replay y Controles",
     "force_update":  false,
     "apk_url":  "https://github.com/novaplaygo/updater/raw/main/apks/novaplaybeta.apk",
     "changelog":  [
@@ -14,5 +14,5 @@
                       "Detección de canales fuera de línea (respuestas HTML) con aviso y reconexión automática",
                       "Actualizador manual optimizado: descarga e instalación directa desde canal Beta"
                   ],
-    "date":  "2026-09-23T08:50:00Z"
+    "date":  "2026-09-23T14:55:00Z"
 }
