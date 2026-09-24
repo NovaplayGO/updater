@@ -4,15 +4,15 @@
     "min-version":  "5.1.1",
     "min-version_code":  511,
     "size":  "17.9 MB",
-    "texto":  "Beta 5.1.5 - Perfeccionamiento de Modo Replay y Controles",
+    "texto":  "Beta 5.1.5 - Optimización Modo Legacy y Estabilización General",
     "force_update":  false,
-    "apk_url":  "https://github.com/novaplaygo/updater/raw/main/apks/novaplaybeta.apk",
+    "apk_url":  "https://github.com/NovaplayGO/updater/raw/main/apks/novaplaybeta.apk",
     "changelog":  [
-                      "Perfeccionamiento de Modo Replay: Línea de tiempo exclusiva en Replay (retrasos >= 1 min)",
-                      "En transmisión en vivo, navegación lateral abre menús de canales y calidad directamente",
-                      "Optimización de motor EPG: Carga ultra-rápida y mejor vinculación de guía",
-                      "Detección de canales fuera de línea (respuestas HTML) con aviso y reconexión automática",
+                      "Optimización extrema del Modo Legacy para Smart TV y TV Boxes de bajos recursos",
+                      "Perfeccionamiento de la línea de tiempo en Modo Replay (retrasos >= 2.5 min)",
+                      "Detección precisa de red, IP pública e ISP para reportes técnicos",
+                      "Inmunización y estabilización contra cierres por recolección de basura (GC)",
                       "Actualizador manual optimizado: descarga e instalación directa desde canal Beta"
                   ],
-    "date":  "2026-09-23T14:55:00Z"
+    "date":  "2026-09-24T02:18:00Z"
 }
