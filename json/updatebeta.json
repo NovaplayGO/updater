@@ -4,16 +4,13 @@
     "min-version":  "5.1.1",
     "min-version_code":  511,
     "size":  "17.9 MB",
-    "texto":  "BETA STABLE",
+    "texto":  "Opcional - Recomendado",
     "force_update":  false,
     "apk_url":  "https://github.com/NovaplayGO/updater/raw/main/apks/novaplaybeta.apk",
     "changelog":  [
-                      "Reducción drástica del consumo de red y optimización total de Supabase",
+                      "Reducción drástica del consumo de red y optimización",
                       "Optimización extrema del Modo Legacy para Smart TV y TV Boxes de bajos recursos",
-                      "Perfeccionamiento de la línea de tiempo en Modo Replay (retrasos >= 2.5 min)",
-                      "Detección precisa de red, IP pública e ISP para reportes técnicos",
-                      "Inmunización y estabilización contra cierres por recolección de basura (GC)",
-                      "Actualizador manual optimizado: descarga e instalación directa desde canal Beta"
+                      "Inmunización contra cierres inesperados por gestión de memoria"
                   ],
     "date":  "2026-09-25T08:30:00Z"
 }
