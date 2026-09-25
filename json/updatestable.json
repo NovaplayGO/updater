@@ -8,7 +8,7 @@
     "force_update":  false,
     "apk_url":  "https://github.com/NovaplayGO/updater/raw/main/apks/novaplaybeta.apk",
     "changelog":  [
-                      "Reducción drástica del consumo de red y optimización total de Supabase",
+                      "Reducción drástica del consumo de red y optimización",
                       "Optimización extrema del Modo Legacy para Smart TV y TV Boxes de bajos recursos",
                       "Inmunización contra cierres inesperados por gestión de memoria"
                   ],
