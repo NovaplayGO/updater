@@ -4,8 +4,8 @@
     "min-version":  "5.1.1",
     "min-version_code":  511,
     "size":  "17.9 MB",
-    "texto":  "BETA STABLE",
-    "force_update":  true,
+    "texto":  "Opcional - Recomendado",
+    "force_update":  false,
     "apk_url":  "https://github.com/NovaplayGO/updater/raw/main/apks/novaplaybeta.apk",
     "changelog":  [
                       "Reducción drástica del consumo de red y optimización total de Supabase",
