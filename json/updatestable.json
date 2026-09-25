@@ -1,11 +1,11 @@
 {
-    "version":  "5.1.5",
-    "version_code":  515,
+    "version":  "5.1.3",
+    "version_code":  513,
     "min-version":  "5.1.1",
     "min-version_code":  511,
     "size":  "17.9 MB",
     "texto":  "Actualización Obligatoria v5.1.5 - Rendimiento y Estabilidad",
-    "force_update":  true,
+    "force_update":  false,
     "apk_url":  "https://github.com/NovaplayGO/updater/raw/main/apks/novaplaybeta.apk",
     "changelog":  [
                       "Actualización obligatoria de rendimiento y estabilización para TV Boxes",
