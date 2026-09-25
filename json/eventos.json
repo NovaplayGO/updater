@@ -1,17 +1,17 @@
 {
-  "texto": "AVISO: CANAL PARANÁ MEDIOS - DISPONIBLE EN PARAGUAY: DAR A BOTÓN RECARGAR O SALIR Y ENTRAR A LA APP PARA QUE ESTE CANAL ESTE DISPONIBLE",
-  "activo": true,
-  "eventoVersion": 46,
+  "texto": "",
+  "activo": false,
+  "eventoVersion": 47,
   "fecha": "2026-08-26",
   "fecha-hasta": "2050-12-31",
   "desde": "00:01",
   "hasta": "23:59",
   "v2": {
-    "popupVersion": 17,
+    "popupVersion": 18,
     "activado": false,
     "titulo": "📢 AVISO IMPORTANTE",
     "parrafos": [
-      "Verificamos y estamos ante una caída del 25% de los canales de la APP. (Serían 112 canales los que tenemos inconvenientes). Se estará trabajando arduamente en intentar restaurar las mismas. // Sección DEPORTES - CANALES ESPN se restauró con respaldos que ya poseíamos.-"
+      "AVISO: INFORMAMOS QUE POR UN ERROR TECNICO ESTUVO DISPONIBLE UNA ACTUALIZACIÓN DE LA APP QUE NO DEBERIA ESTAR DISPONIBLE TODAVIA.  ESTA SE DESACTIVO PARA OTROS USUARIOS PARA QUE NO ACTUALIZEN TODAVIA, YA QUE SEGUIMOS TRABAJANDO EN LA QUE SE REMITIO POR ERROR. POR LO QUE HABRA UNA ACTUALIZACIÓN NUEVAMENTE.- DISCULPE LAS MOLESTIAS"
     ]
   },
   "mostrarEnReproductor": true
