@@ -1,7 +1,7 @@
 {
-  "texto": "",
-  "activo": false,
-  "eventoVersion": 47,
+  "texto": "SE INSTA A ACTUALIZAR A LA VERSIÓN 5.1.6 , ESTE CORRIGE ERRORES PRESENTES EN LA VERSION 5.1.3",
+  "activo": true,
+  "eventoVersion": 48,
   "fecha": "2026-08-26",
   "fecha-hasta": "2050-12-31",
   "desde": "00:01",
