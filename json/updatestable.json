@@ -8,10 +8,11 @@
     "force_update":  false,
     "apk_url":  "https://github.com/NovaplayGO/updater/raw/main/apks/novaplay.apk",
     "changelog":  [
+                      "Actualización de dependencias del sistema (core-ktx, navigation y work-runtime)",
+                      "Optimización y formato mejorado de la Guía EPG",
                       "Optimización y reparación del sistema de Token",
-                      "Optimización de sistema de Programación de canales",
                       "Optimización en el funcionamiento de la App",
                       "Correción de Errores Varios"
                   ],
-    "date":  "2026-09-27T10:30:00Z"
+    "date":  "2026-09-27T11:15:00Z"
 }
