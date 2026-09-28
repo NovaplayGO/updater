@@ -1,0 +1,18 @@
+{
+    "version":  "5.2.0",
+    "version_code":  520,
+    "min-version":  "5.1.1",
+    "min-version_code":  511,
+    "size":  "17.9 MB",
+    "texto":  "Actualización Recomendada",
+    "force_update":  false,
+    "apk_url":  "https://github.com/NovaplayGO/updater/raw/main/apks/novaplaybeta.apk",
+    "changelog":  [
+                      "Actualización de dependencias del sistema (core-ktx, navigation y work-runtime)",
+                      "Optimización y formato mejorado de la Guía EPG",
+                      "Optimización y reparación del sistema de Token",
+                      "Optimización en el funcionamiento de la App",
+                      "Correción de Errores Varios"
+                  ],
+    "date":  "2026-09-27T11:45:00Z"
+}
