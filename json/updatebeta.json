@@ -1,8 +1,8 @@
 {
     "version":  "5.2.0",
     "version_code":  520,
-    "min-version":  "5.1.1",
-    "min-version_code":  511,
+    "min-version":  "5.2.0",
+    "min-version_code":  520,
     "size":  "17.9 MB",
     "texto":  "Actualización Recomendada",
     "force_update":  false,
@@ -14,5 +14,5 @@
                       "Optimización en el funcionamiento de la App",
                       "Correción de Errores Varios"
                   ],
-    "date":  "2026-09-27T11:45:00Z"
+    "date":  "2026-09-27T12:00:00Z"
 }
