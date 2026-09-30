@@ -1,7 +1,7 @@
 {
   "texto": "AMISTOSO EE.UU - CHILE por Canal MEGA en Sección Chile o Eventos por NovaSports",
-  "activo": true,
-  "eventoVersion": 59,
+  "activo": false,
+  "eventoVersion": 60,
   "fecha": "2026-08-26",
   "fecha-hasta": "2050-12-31",
   "desde": "00:01",
