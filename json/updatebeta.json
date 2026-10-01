@@ -8,7 +8,10 @@
     "force_update":  false,
     "apk_url":  "https://github.com/NovaplayGO/updater/raw/main/apks/novaplaybeta.apk",
     "changelog":  [
-                      "Selector Manual de Perfil de Rendimiento"
+                      "Fix: Se Reparó un error que impedia la correcta carga de la lista y obligaba a usar la cache de la misma",
+                      "Selector Manual de Perfil de Rendimiento",
+                      "Calibración de rendimiento inteligente para TV Boxes de 2GB de RAM (Perfil Balanced y 576p)",
+                      "Optimización de resolución máxima por perfil de hardware (Legacy 480p, Balanced 576p, Ultra ilimitado)"
                   ],
-    "date":  "2026-09-30T15:00:00Z"
+    "date":  "2026-09-30T16:00:00Z"
 }
