@@ -8,11 +8,12 @@
     "force_update":  false,
     "apk_url":  "https://github.com/NovaplayGO/updater/raw/main/apks/novaplaybeta.apk",
     "changelog":  [
+                      "Barra de búsqueda flotante en la versión móvil con soporte para botón de retroceso",
                       "Fix: Sincronización automática de detección de hardware y selección estricta del Perfil de Rendimiento",
                       "Optimización de banner 16:9 y compatibilidad nativa con Leanback Launcher en Fire TV",
                       "Fix: Se Reparó un error que impedia la correcta carga de la lista y obligaba a usar la cache de la misma",
                       "Se agregó la opción de seleccionar el Perfil de Rendimiento de la app por medio de un selector manual.",
                       "Calibración de rendimiento inteligente para TV Boxes de 2GB de RAM"
                   ],
-    "date":  "2026-10-01T19:50:00Z"
+    "date":  "2026-10-02T15:35:12Z"
 }
