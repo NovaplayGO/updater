@@ -1,11 +1,11 @@
 {
-  "texto": "AMISTOSO - Paraguay Vs Colombia por Trece y GEN a las 21:00 Hs",
+  "texto": "Futbol de Primera - Guaraní Vs Sportivo San Lorenzo por Eventos - Tigo Sports #2",
   "activo": true,
-  "eventoVersion": 63,
+  "eventoVersion": 64,
   "fecha": "2026-08-26",
   "fecha-hasta": "2050-12-31",
   "desde": "00:01",
-  "hasta": "23:59",
+  "hasta": "19:00",
   "v2": {
     "popupVersion": 20,
     "activado": false,
