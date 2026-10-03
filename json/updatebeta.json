@@ -8,14 +8,13 @@
     "force_update":  false,
     "apk_url":  "https://github.com/NovaplayGO/updater/raw/main/apks/novaplaybeta.apk",
     "changelog":  [
-                      "Eliminación del círculo de estado en el toolbar y optimización del reloj junto al logotipo en Modo TV",
                       "Barra de búsqueda flotante en la versión móvil con soporte para botón de retroceso",
-                      "Fix: Sincronización automática de detección de hardware y selección estricta del Perfil de Rendimiento",
+                      "Selector manual de Perfil de Rendimiento (Ahorro, Equilibrado, Máximo Rendimiento) con diseño M3 Expressive",
+                      "Optimización del diseño gráfico y alineación de reloj junto al logotipo en Modo TV",
+                      "Eliminación del círculo de estado en el toolbar",
                       "Optimización de banner 16:9 y compatibilidad nativa con Leanback Launcher en Fire TV",
-                      "Fix: Se Reparó un error que impedia la correcta carga de la lista y obligaba a usar la cache de la misma",
                       "Se agregó la opción de seleccionar el Perfil de Rendimiento de la app por medio de un selector manual.",
                       "Calibración de rendimiento inteligente para TV Boxes de 2GB de RAM"
                   ],
-    "date":  "2026-10-03T07:09:16Z"
+    "date":  "2026-10-03T10:35:15Z"
 }
-
