@@ -8,6 +8,7 @@
     "force_update":  false,
     "apk_url":  "https://github.com/NovaplayGO/updater/raw/main/apks/novaplaybeta.apk",
     "changelog":  [
+                      "Se realizaron ajustes menores en el código y interfaz gráfica.",
                       "Barra de búsqueda flotante en la versión móvil con soporte para botón de retroceso",
                       "Selector manual de Perfil de Rendimiento (Ahorro, Equilibrado, Máximo Rendimiento) con diseño M3 Expressive",
                       "Optimización del diseño gráfico y alineación de reloj junto al logotipo en Modo TV",
@@ -16,5 +17,5 @@
                       "Se agregó la opción de seleccionar el Perfil de Rendimiento de la app por medio de un selector manual.",
                       "Calibración de rendimiento inteligente para TV Boxes de 2GB de RAM"
                   ],
-    "date":  "2026-10-03T10:35:15Z"
+    "date":  "2026-10-03T19:28:50Z"
 }
