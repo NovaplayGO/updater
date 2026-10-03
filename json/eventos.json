@@ -1,11 +1,11 @@
 {
-  "texto": "Futbol de Primera - Guaraní Vs Sportivo San Lorenzo por Eventos - Tigo Sports #2 - NovaSports 1 al 4 - RECARGAR APP PARA VER LOS NUEVOS CANALES AGREGADOS",
+  "texto": "Futbol de Primera - Deportivo Recoleta vs Libertad por Sección Eventos - Tigo Sports #2 - NovaSports 1 al 4 - RECARGAR APP PARA VER LOS NUEVOS CANALES AGREGADOS",
   "activo": true,
-  "eventoVersion": 66,
-  "fecha": "2026-08-26",
-  "fecha-hasta": "2050-12-31",
-  "desde": "00:01",
-  "hasta": "19:00",
+  "eventoVersion": 67,
+  "fecha": "2026-10-03",
+  "fecha-hasta": "2026-10-03",
+  "desde": "19:00",
+  "hasta": "21:00",
   "v2": {
     "popupVersion": 20,
     "activado": false,
