@@ -1,11 +1,11 @@
 {
-  "texto": "Argentina vs Burkina Faso a las 21:00 Hs por TyC Sports - Sección Deportes",
+  "texto": "Nuevos Canales HBO y Universal Disponibles en Sección Cultura y Ocio",
   "activo": true,
-  "eventoVersion": 68,
-  "fecha": "2026-10-03",
-  "fecha-hasta": "2026-10-03",
-  "desde": "19:00",
-  "hasta": "21:00",
+  "eventoVersion": 69,
+  "fecha": "2026-10-05",
+  "fecha-hasta": "2026-10-05",
+  "desde": "01:00",
+  "hasta": "23:59",
   "v2": {
     "popupVersion": 20,
     "activado": false,
