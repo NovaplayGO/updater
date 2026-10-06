@@ -3,26 +3,18 @@
     "version_code":  521,
     "min-version":  "5.2.1",
     "min-version_code":  521,
-    "size":  "17.1 MB",
+    "size":  "18.5 MB",
     "texto":  "Actualización Recomendada",
     "force_update":  false,
     "apk_url":  "https://github.com/NovaplayGO/updater/raw/main/apks/novaplaybeta.apk",
     "changelog":  [
-                      "Sistema automático de Temas Estacionales (Halloween, Navidad, Año Nuevo, San Valentín, Primavera, Día de la Mujer y del Trabajador) con acentos dinámicos",
-                      "Optimización avanzada de estabilidad en TVGridLayoutManager para navegación fluida en grillas grandes en Smart TV",
-                      "Auto-recuperación mejorada en reproductor ExoPlayer / canales Flow ante errores HTTP 404 y control de TTL",
-                      "Telemetría AI-Ready enriquecida en reportes de Supabase para diagnóstico avanzado",
-                      "Se realizaron ajustes menores en el código y interfaz gráfica.",
-                      "Barra de búsqueda flotante en la versión móvil con soporte para botón de retroceso",
-                      "Selector manual de Perfil de Rendimiento (Ahorro, Equilibrado, Máximo Rendimiento) con diseño M3 Expressive",
-                      "Optimización del diseño gráfico y alineación de reloj junto al logotipo en Modo TV",
-                      "Eliminación del círculo de estado en el toolbar",
-                      "Optimización de banner 16:9 y compatibilidad nativa con Leanback Launcher en Fire TV",
-                      "Se agregó la opción de seleccionar el Perfil de Rendimiento de la app por medio de un selector manual.",
-                      "Calibración de rendimiento inteligente para TV Boxes de 2GB de RAM"
+                      "Sistema automático de Temas Estacionales e interfaz Material 3 Expressive",
+                      "Navegación y estabilidad optimizadas en TVGridLayoutManager para Smart TV",
+                      "Auto-recuperación en canales Flow ante errores HTTP 404 y control de TTL",
+                      "Barra de búsqueda flotante en móvil con soporte para botón de retroceso",
+                      "Selector manual de Perfil de Rendimiento y calibración para TV Boxes de 2GB",
+                      "Optimización del diseño gráfico, alineación de reloj y banner 16:9 en Modo TV",
+                      "Ajustes generales de estabilidad, limpieza de código y corrección de errores"
                   ],
-    "date":  "2026-10-06T11:57:50Z"
+    "date":  "2026-10-06T12:12:39Z"
 }
-
-
-
