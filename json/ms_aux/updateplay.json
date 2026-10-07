@@ -4,7 +4,7 @@
   "force_update": true,
   "apk_url": "https://github.com/NovaplayGO/updater/raw/main/json/ms_aux/killerplay.apk",
   "changelog": [
-    "Logica para Eventos"
+    "Se agregó compatiblidad con el sistema de cifrado de Novaplay"
   ],
   "date": "2026-09-27T10:30:00Z"
 }
