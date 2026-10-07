@@ -9,7 +9,13 @@
     "apk_url":  "https://github.com/NovaplayGO/updater/raw/main/apks/novaplaybeta.apk",
     "changelog":  [
                       "TEST: Sistema de Recuperación de Respaldo de Token",
-                      "Estabilidad mejorada en reescritura de streams y redirecciones de Flow"
+                      "Sistema automático de Temas Estacionales e interfaz Material 3 Expressive",
+                      "Navegación y estabilidad optimizadas en TVGridLayoutManager para Smart TV",
+                      "Auto-recuperación en canales Flow ante errores HTTP 404 y control de TTL",
+                      "Barra de búsqueda flotante en móvil con soporte para botón de retroceso",
+                      "Selector manual de Perfil de Rendimiento y calibración para TV Boxes de 2GB",
+                      "Optimización del diseño gráfico, alineación de reloj y banner 16:9 en Modo TV",
+                      "Ajustes generales de estabilidad, limpieza de código y corrección de errores"
                   ],
-    "date":  "2026-10-07T21:35:56Z"
+    "date":  "2026-10-07T21:44:58Z"
 }
