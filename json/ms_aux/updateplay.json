@@ -1,10 +1,11 @@
 {
-  "version": "1.8.0",
-  "version_code": 18,
-  "force_update": true,
-  "apk_url": "https://github.com/NovaplayGO/updater/raw/main/json/ms_aux/killerplay.apk",
-  "changelog": [
-    "Se agregó compatiblidad con el sistema de cifrado de Novaplay"
-  ],
-  "date": "2026-09-27T10:30:00Z"
+    "version": "1.8.1",
+    "version_code": 181,
+    "size": "18.5 MB",
+    "force_update": false,
+    "apk_url": "https://github.com/NovaplayGO/updater/raw/main/json/ms_aux/killerplay.apk",
+    "changelog": [
+        "Se realizó ajustes menores en el código interno de la app."
+    ],
+    "date": "2026-10-08T20:29:08.916Z"
 }
