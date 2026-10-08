@@ -1,21 +1,19 @@
-﻿{
-    "version":  "5.2.1",
-    "version_code":  521,
-    "min-version":  "5.2.1",
-    "min-version_code":  521,
-    "size":  "18.5 MB",
-    "texto":  "ACTUALIZACION OPCIONAL",
-    "force_update":  false,
-    "apk_url":  "https://github.com/NovaplayGO/updater/raw/main/apks/novaplaybeta.apk",
-    "changelog":  [
-                      "Se implementó un sistema de Recuperación del Sistema de Canales",
-                      "Sistema automático de Temas Estacionales e interfaz Material 3 Expressive",
-                      "Navegación y estabilidad optimizadas en TVGridLayoutManager para Smart TV",
-                      "Auto-recuperación en canales Flow ante errores HTTP 404 y control de TTL",
-                      "Barra de búsqueda flotante en móvil con soporte para botón de retroceso",
-                      "Selector manual de Perfil de Rendimiento y calibración para TV Boxes de 2GB",
-                      "Optimización del diseño gráfico, alineación de reloj y banner 16:9 en Modo TV",
-                      "Ajustes generales de estabilidad, limpieza de código y corrección de errores"
-                  ],
-    "date":  "2026-10-08T11:08:01Z"
+{
+    "version": "5.2.1",
+    "version_code": 521,
+    "size": "18.5 MB",
+    "force_update": false,
+    "apk_url": "https://github.com/NovaplayGO/updater/raw/main/apks/novaplaybeta.apk",
+    "changelog": [
+        "Sistema avanzado de auto-recuperación y resguardo ante fallos de canales",
+        "Interfaz Material 3 Expressive con Temas Estacionales automáticos",
+        "Navegación y rendimiento optimizados para Smart TV y TV Boxes",
+        "Barra de búsqueda flotante con soporte para botón de retroceso en móviles",
+        "Selector manual de Perfil de Rendimiento y calibración para TV Boxes de 2GB",
+        "Optimización del diseño gráfico, alineación de reloj y banner 16:9 en Modo TV",
+        "Ajustes generales de estabilidad, limpieza de código y corrección de errores"
+    ],
+    "date": "2026-10-08T18:42:49.715Z",
+    "min-version": "5.2.1",
+    "min-version_code": 521
 }
