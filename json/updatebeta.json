@@ -4,7 +4,7 @@
     "min-version":  "5.2.1",
     "min-version_code":  521,
     "size":  "18.5 MB",
-    "texto":  "Se implementó un sistema de Recuperación del Sistema de Canales",
+    "texto":  "ACTUALIZACION OPCIONAL",
     "force_update":  false,
     "apk_url":  "https://github.com/NovaplayGO/updater/raw/main/apks/novaplaybeta.apk",
     "changelog":  [
@@ -17,5 +17,5 @@
                       "Optimización del diseño gráfico, alineación de reloj y banner 16:9 en Modo TV",
                       "Ajustes generales de estabilidad, limpieza de código y corrección de errores"
                   ],
-    "date":  "2026-10-08T10:59:09Z"
+    "date":  "2026-10-08T11:08:01Z"
 }
