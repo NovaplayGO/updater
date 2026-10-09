@@ -1,18 +1,18 @@
-{
-    "version": "5.2.2",
-    "version_code": 522,
-    "min-version": "5.2.2",
-    "min-version_code": 522,
-    "size": "18.5 MB",
-    "force_update": false,
-    "apk_url": "https://github.com/NovaplayGO/updater/raw/main/apks/novaplaybeta.apk",
-    "changelog": [
-        "THIS BETA IS A RELEASE CANDIDATE (STABLE BETA)",
-        "NUEVO: Sistema avanzado de auto-recuperación y resguardo ante fallos de canales.",
-        "NUEVO: Interfaz Material 3 Expressive con Temas Estacionales automáticos.",
-        "REPARADO: Navegación y rendimiento optimizados para Smart TV y TV Boxes.",
-        "NUEVO: Barra de búsqueda flotante en móviles.",
-        "NUEVO: Selector manual de Perfil de Rendimiento."
-    ],
-    "date": "2026-10-08T23:46:46.819Z"
+﻿{
+    "version":  "5.2.2",
+    "version_code":  522,
+    "min-version":  "5.2.2",
+    "min-version_code":  522,
+    "size":  "18.5 MB",
+    "force_update":  false,
+    "apk_url":  "https://github.com/NovaplayGO/updater/raw/main/apks/novaplaybeta.apk",
+    "changelog":  [
+                      "THIS BETA IS A RELEASE CANDIDATE (STABLE BETA)",
+                      "NUEVO: Sistema avanzado de auto-recuperaciÃ³n y resguardo ante fallos de canales.",
+                      "NUEVO: Interfaz Material 3 Expressive con Temas Estacionales automÃ¡ticos.",
+                      "REPARADO: NavegaciÃ³n y rendimiento optimizados para Smart TV y TV Boxes.",
+                      "NUEVO: Barra de bÃºsqueda flotante en mÃ³viles.",
+                      "NUEVO: Selector manual de Perfil de Rendimiento."
+                  ],
+    "date":  "2026-10-09T12:00:00Z"
 }
