@@ -1,18 +1,20 @@
 {
-    "version":  "5.2.0",
-    "version_code":  520,
-    "min-version":  "5.2.0",
-    "min-version_code":  520,
-    "size":  "17.1 MB",
-    "texto":  "Actualización Recomendada",
-    "force_update":  false,
-    "apk_url":  "https://github.com/NovaplayGO/updater/raw/main/apks/novaplay.apk",
-    "changelog":  [
-                      "Actualización de dependencias del sistema (core-ktx, navigation y work-runtime)",
-                      "Optimización y formato mejorado de la Guía EPG",
-                      "Optimización y reparación del sistema de Token",
-                      "Optimización en el funcionamiento de la App",
-                      "Correción de Errores Varios"
-                  ],
-    "date":  "2026-09-29T10:52:49Z"
+    "version": "5.2.0",
+    "version_code": 520,
+    "min-version": "5.2.0",
+    "min-version_code": 520,
+    "size": "17.1 MB",
+    "force_update": false,
+    "apk_url": "https://github.com/NovaplayGO/updater/raw/main/apks/novaplay.apk",
+    "texto": "Actualización Recomendada",
+    "changelog": [
+        "THIS BETA IS A RELEASE CANDIDATE RC2 (STABLE BETA)",
+        "REPARADO: Se implementó una corrección en el sistema de auto-recuperación de canales",
+        "NUEVO: Sistema avanzado de auto-recuperación y resguardo ante fallos de canales.",
+        "NUEVO: Interfaz Material 3 Expressive con Temas Estacionales automáticos.",
+        "REPARADO: Navegación y rendimiento optimizados para Smart TV y TV Boxes.",
+        "NUEVO: Barra de búsqueda flotante en móviles.",
+        "NUEVO: Selector manual de Perfil de Rendimiento."
+    ],
+    "date": "2026-10-10T20:39:39.063Z"
 }
