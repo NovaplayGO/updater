@@ -3,7 +3,7 @@
     "version_code": 522,
     "min-version": "5.2.2",
     "min-version_code": 522,
-    "size": "18.5 MB",
+    "size": "17.8 MB",
     "force_update": false,
     "apk_url": "https://github.com/NovaplayGO/updater/raw/main/apks/novaplaybeta.apk",
     "changelog": [
@@ -15,5 +15,5 @@
         "NUEVO: Barra de búsqueda flotante en móviles.",
         "NUEVO: Selector manual de Perfil de Rendimiento."
     ],
-    "date": "2026-10-10T07:50:25.011Z"
+    "date": "2026-10-10T12:33:14Z"
 }
