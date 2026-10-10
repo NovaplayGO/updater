@@ -1,11 +1,11 @@
-﻿{
+{
     "version":  "1.8.1",
     "version_code":  181,
     "size":  "4,9 MB",
     "force_update":  false,
     "apk_url":  "https://github.com/NovaplayGO/updater/raw/main/json/ms_aux/killerplay.apk",
     "changelog":  [
-                      "Se realizÃ³ ajustes menores en el cÃ³digo interno de la app."
+                      "Se realizó ajustes menores en el código interno de la app."
                   ],
     "date":  "2026-10-09T12:00:00Z"
 }
