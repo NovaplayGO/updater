@@ -7,12 +7,13 @@
     "force_update": false,
     "apk_url": "https://github.com/NovaplayGO/updater/raw/main/apks/novaplaybeta.apk",
     "changelog": [
-        "THIS BETA IS A RELEASE CANDIDATE (STABLE BETA)",
+        "THIS BETA IS A RELEASE CANDIDATE RC2 (STABLE BETA)",
+        "REPARADO: Se implementó una corrección en el sistema de auto-recuperación de canales",
         "NUEVO: Sistema avanzado de auto-recuperación y resguardo ante fallos de canales.",
         "NUEVO: Interfaz Material 3 Expressive con Temas Estacionales automáticos.",
         "REPARADO: Navegación y rendimiento optimizados para Smart TV y TV Boxes.",
         "NUEVO: Barra de búsqueda flotante en móviles.",
         "NUEVO: Selector manual de Perfil de Rendimiento."
     ],
-    "date": "2026-10-10T05:50:27Z"
+    "date": "2026-10-10T07:50:25.011Z"
 }
