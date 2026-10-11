@@ -1,11 +1,11 @@
 {
   "texto": "Olimpia vs Rubio Ñu por Señal Tigo Sports 1 al 4 por Eventos.",
   "activo": true,
-  "eventoVersion": 73,
+  "eventoVersion": 74,
   "fecha": "2026-10-11",
   "fecha-hasta": "2026-10-11",
-  "desde": "17:00",
-  "hasta": "19:00",
+  "desde": "11:00",
+  "hasta": "23:00",
   "v2": {
     "popupVersion": 20,
     "activado": false,
