@@ -1,10 +1,11 @@
 {
-    "force_update":  false,
-    "changelog":  [
-                      "Actualización de panel 1.3.2 (BOM Fix)",
-                      "Mejoras en el Dashboard"
-                  ],
-    "version_code":  132,
-    "version":  "1.3.2",
-    "apk_url":  "https://github.com/novaplaygo/updater/raw/main/apks/novapanel.apk"
+    "version": "1.3.3",
+    "version_code": 133,
+    "size": "",
+    "force_update": false,
+    "apk_url": "https://github.com/novaplaygo/updater/raw/main/apks/novapanel.apk",
+    "changelog": [
+        "Se realizó un corrección en el código interno de la app"
+    ],
+    "date": "2026-10-11T01:40:30.832Z"
 }
