@@ -8,7 +8,7 @@
     "apk_url": "https://github.com/NovaplayGO/updater/raw/main/apks/novaplaybeta.apk",
     "changelog": [
         "THIS BETA IS A RELEASE CANDIDATE RC4 (STABLE BETA)",
-        "REPARADO: Error de Sincronización de Audio en Dispositivos FireTV",
+        "REPARADO: Se soluciono un error que causaba un cierre inesperado durante navegación rápida.",
         "REPARADO: Se realizó una corrección en el sistema interno de la app, para evitar un cierre inesperado en algunos dispositivos.",
         "REPARADO: Se implementó una corrección en el sistema de auto-recuperación de canales.",
         "NUEVO: Sistema avanzado de auto-recuperación y resguardo ante fallos de canales.",
@@ -17,5 +17,5 @@
         "NUEVO: Barra de búsqueda flotante en móviles.",
         "NUEVO: Selector manual de Perfil de Rendimiento."
     ],
-    "date": "2026-10-12T11:50:33Z"
+    "date": "2026-10-12T13:02:28.003Z"
 }
