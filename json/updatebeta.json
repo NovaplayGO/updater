@@ -7,7 +7,7 @@
     "force_update": false,
     "apk_url": "https://github.com/NovaplayGO/updater/raw/main/apks/novaplaybeta.apk",
     "changelog": [
-        "THIS BETA IS A RELEASE CANDIDATE RC4 (STABLE BETA)",
+        "ESTA BETA ES CANDIDATA A VERSIÓN ESTABLE.",
         "REPARADO: Se soluciono un error que causaba un cierre inesperado durante navegación rápida.",
         "REPARADO: Se realizó una corrección en el sistema interno de la app, para evitar un cierre inesperado en algunos dispositivos.",
         "REPARADO: Se implementó una corrección en el sistema de auto-recuperación de canales.",
@@ -17,5 +17,5 @@
         "NUEVO: Barra de búsqueda flotante en móviles.",
         "NUEVO: Selector manual de Perfil de Rendimiento."
     ],
-    "date": "2026-10-13T01:10:53Z"
+    "date": "2026-10-13T13:58:34.643Z"
 }
