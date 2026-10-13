@@ -1,8 +1,8 @@
 {
-  "texto": "Señales Eventos de TigoSports Restaurados para una próxima transmisión.",
-  "activo": false,
-  "eventoVersion": 76,
-  "fecha": "2026-10-12",
+  "texto": "Boca vs Vasco da Gama por ESPN Sur - 21:30",
+  "activo": true,
+  "eventoVersion": 77,
+  "fecha": "2026-10-13",
   "fecha-hasta": "2026-10-13",
   "desde": "01:00",
   "hasta": "23:00",
