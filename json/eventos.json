@@ -1,7 +1,7 @@
 {
-  "texto": "SEÑAL TIGO SPORTS CON PROBLEMAS CON SEÑAL DE ORIGEN -  NO ES INCONVENIENTES CON LA APP",
+  "texto": "AVISO: Si la señal es inestable, cambiar entre las distintas señales de Eventos de Tigo Sports. Intentaremos obtener mas señales ya que se saturan por la cantidad de Usuarios utilizando la misma señal.",
   "activo": true,
-  "eventoVersion": 81,
+  "eventoVersion": 82,
   "fecha": "2026-10-14",
   "fecha-hasta": "2026-10-14",
   "desde": "01:00",
