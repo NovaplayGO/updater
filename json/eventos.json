@@ -1,9 +1,9 @@
 {
-  "texto": "Boca vs Vasco da Gama por ESPN Sur - 21:30 // AVISO IMPORTANTE: SE REALIZARÁ UN MANTENIMIENTO DESDE LAS 00:00 HASTA 01:00 PARA AJUSTES ANTES DE LA NUEVA ACTUALIZACIÓN DE LA APP.",
+  "texto": "SE RECOMIENDA ACTUALIZAR LA APP A LA VERSIÓN 5.2.5",
   "activo": true,
-  "eventoVersion": 78,
-  "fecha": "2026-10-13",
-  "fecha-hasta": "2026-10-13",
+  "eventoVersion": 79,
+  "fecha": "2026-10-14",
+  "fecha-hasta": "2026-10-14",
   "desde": "01:00",
   "hasta": "23:59",
   "v2": {
