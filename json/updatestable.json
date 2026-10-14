@@ -1,8 +1,8 @@
 {
-    "version": "5.2.0",
-    "version_code": 520,
-    "min-version": "5.2.0",
-    "min-version_code": 520,
+    "version": "5.2.5",
+    "version_code": 525,
+    "min-version": "5.2.5",
+    "min-version_code": 525,
     "size": "17.7 MB",
     "force_update": false,
     "apk_url": "https://github.com/NovaplayGO/updater/raw/main/apks/novaplay.apk",
@@ -17,5 +17,5 @@
         "REPARADO: Se realizó una corrección en el sistema interno de la app, para evitar un cierre inesperado en algunos dispositivos.",
         "REPARADO: Se soluciono un error que causaba un cierre inesperado durante navegación rápida en TV´S."
     ],
-    "date": "2026-10-14T00:15:59Z"
+    "date": "2026-10-14T08:57:11.326Z"
 }
