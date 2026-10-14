@@ -1,7 +1,7 @@
 {
-  "texto": "Desde NovaPlay, pedimos disculpas por los inconvenientes en la señal de eventos, cuya estabilidad no depende directamente de nosotros. Estamos buscando nuevas señales.",
+  "texto": "RECORDAMOS QUE LOS CANALES EN EVENTOS SON CANALES POR TRANMISIÓN POR PC, LO CUAL PUEDEN SER INESTABLES. SE INTENTA CONSEGUIR CANALES FUNCIONALES PERO NO GARANTIZAMOS SU ESTABILIDAD. AUNQUE INTENTAMOS ENCONTRAR LOS MAS ESTABLES",
   "activo": true,
-  "eventoVersion": 84,
+  "eventoVersion": 85,
   "fecha": "2026-10-14",
   "fecha-hasta": "2026-10-14",
   "desde": "01:00",
