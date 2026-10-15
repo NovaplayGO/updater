@@ -1,14 +1,13 @@
 {
-    "version": "5.2.5",
-    "version_code": 525,
-    "min-version": "5.2.5",
-    "min-version_code": 525,
+    "version": "5.2.6",
+    "version_code": 526,
+    "min-version": "5.2.6",
+    "min-version_code": 526,
     "size": "17.7 MB",
     "force_update": false,
     "apk_url": "https://github.com/NovaplayGO/updater/raw/main/apks/novaplaybeta.apk",
     "changelog": [
-        "OJO NO SE RECOMIENDA ACTUALIZAR 5.2.6",
-        "MODIFICADO: Se realizó cambios internos y saneamientos en la app."
+        "REPARADO: Se realizaron correcciones en el código que causaban cierres inesperados. (15/10/2026)"
     ],
-    "date": "2026-10-15T11:01:34Z"
+    "date": "2026-10-15T11:06:13.477Z"
 }
