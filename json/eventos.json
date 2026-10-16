@@ -1,9 +1,9 @@
 {
-  "texto": "El Próximo Partido de TigoSports. Intentaremos transmitir por nuestra señal NovaSports. Pero tendrá señal de Tigo pero el audio de la radio. (Razón: Señal Encontrada solo con sonido de fondo)",
-  "activo": false,
-  "eventoVersion": 91,
-  "fecha": "2026-10-14",
-  "fecha-hasta": "2026-10-16",
+  "texto": "Deportivo Recoleta Vs Rubio Ñu Disponible desde las distintas señales en Eventos. - Nuevas Señales Agregadas",
+  "activo": true,
+  "eventoVersion": 92,
+  "fecha": "2026-10-16",
+  "fecha-hasta": "2026-10-18",
   "desde": "01:00",
   "hasta": "23:59",
   "v2": {
