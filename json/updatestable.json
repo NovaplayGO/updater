@@ -4,9 +4,9 @@
     "min-version": "5.2.5",
     "min-version_code": 525,
     "size": "17.7 MB",
-    "force_update": false,
+    "force_update": true,
     "apk_url": "https://github.com/NovaplayGO/updater/raw/main/apks/novaplay.apk",
-    "texto": "SE RECOMIENDA SU ACTUALIZACIÓN",
+    "texto": "Actualización Obligatoria",
     "changelog": [
         "NUEVO: Selector manual de Perfil de Rendimiento.",
         "NUEVO: Barra de búsqueda flotante en móviles.",
@@ -17,5 +17,5 @@
         "REPARADO: Se realizó una corrección en el sistema interno de la app, para evitar un cierre inesperado en algunos dispositivos.",
         "REPARADO: Se soluciono un error que causaba un cierre inesperado durante navegación rápida en TV´S."
     ],
-    "date": "2026-10-14T08:57:11.326Z"
+    "date": "2026-10-19T23:26:51.408Z"
 }
