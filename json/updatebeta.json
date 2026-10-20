@@ -3,12 +3,12 @@
     "version_code": 527,
     "min-version": "5.2.6",
     "min-version_code": 526,
-    "size": "18.5 MB",
+    "size": "17.8 MB",
     "force_update": false,
     "apk_url": "https://github.com/NovaplayGO/updater/raw/main/apks/novaplaybeta.apk",
     "changelog": [
         "REPARADO: Se reparo un error que causaba que los logos de los canales no cargaran en ciertas ocasiones. (17/10/2026)",
         "REPARADO: Se realizaron correcciones en el código que causaban cierres inesperados. (17/10/2026)"
     ],
-    "date": "2026-10-18T02:06:52Z"
+    "date": "2026-10-20T09:57:32Z"
 }
