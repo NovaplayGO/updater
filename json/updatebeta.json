@@ -7,8 +7,10 @@
     "force_update": false,
     "apk_url": "https://github.com/NovaplayGO/updater/raw/main/apks/novaplaybeta.apk",
     "changelog": [
-        "REPARADO: Se reparo un error que causaba que los logos de los canales no cargaran en ciertas ocasiones. (17/10/2026)",
-        "REPARADO: Se realizaron correcciones en el código que causaban cierres inesperados. (17/10/2026)"
+        "NUEVO: Menú de ajustes con acceso a Mi Cuenta, Perfil de Rendimiento, Uso de Datos y más.",
+        "OPTIMIZADO: Resolución 480p predeterminada en dispositivos de bajo rendimiento para mayor estabilidad.",
+        "REPARADO: Solucionado un error que impedía cargar algunos logotipos de canales.",
+        "REPARADO: Corregidos errores que provocaban cierres inesperados."
     ],
-    "date": "2026-10-20T09:57:32Z"
+    "date": "2026-10-20T22:47:17.279Z"
 }
