@@ -1,9 +1,9 @@
 {
-  "texto": "CANAL TV CAMARA AGREGADO EN SECCIÓN PARAGUAY.",
+  "texto": "CANAL TV CAMARA AGREGADO EN SECCIÓN PARAGUAY. EN EL TRANCURSO DE LA SEMANA ESTAREMOS AGREGANDO NUEVOS CANALES.-",
   "activo": true,
-  "eventoVersion": 100,
+  "eventoVersion": 101,
   "fecha": "2026-10-21",
-  "fecha-hasta": "2026-10-21",
+  "fecha-hasta": "2026-10-23",
   "desde": "01:00",
   "hasta": "23:59",
   "v2": {
