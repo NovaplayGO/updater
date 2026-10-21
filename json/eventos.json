@@ -1,7 +1,7 @@
 {
-  "texto": "CANALPRO, RCC (PARAGUAY), DAZN F1 (DEPORTES), TELEMUNDO, BBC NEWS, BLOOMBERG (NOTICIAS) AGREGADOS",
-  "activo": false,
-  "eventoVersion": 102,
+  "texto": "CANALPRO, RCC (PARAGUAY), DAZN F1 (DEPORTES), TELEMUNDO, BBC NEWS, BLOOMBERG (NOTICIAS) AGREGADOS A LA APP",
+  "activo": true,
+  "eventoVersion": 103,
   "fecha": "2026-10-21",
   "fecha-hasta": "2026-10-23",
   "desde": "01:00",
