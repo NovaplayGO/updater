@@ -1,7 +1,7 @@
 {
-  "texto": "CANAL TV CAMARA AGREGADO EN SECCIÓN PARAGUAY. EN EL TRANCURSO DE LA SEMANA ESTAREMOS AGREGANDO NUEVOS CANALES.-",
-  "activo": true,
-  "eventoVersion": 101,
+  "texto": "CANALPRO, RCC (PARAGUAY), DAZN F1 (DEPORTES), TELEMUNDO, BBC NEWS, BLOOMBERG (NOTICIAS) AGREGADOS",
+  "activo": false,
+  "eventoVersion": 102,
   "fecha": "2026-10-21",
   "fecha-hasta": "2026-10-23",
   "desde": "01:00",
