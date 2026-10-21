@@ -1,9 +1,9 @@
 {
-  "texto": "Canal Evento TIGO SPORTS #1 con señal reparada. Recargar app, o salir y volver a ingresar a la app.",
+  "texto": "CANAL TV CAMARA AGREGADO EN SECCIÓN PARAGUAY.",
   "activo": true,
-  "eventoVersion": 99,
-  "fecha": "2026-10-16",
-  "fecha-hasta": "2026-10-19",
+  "eventoVersion": 100,
+  "fecha": "2026-10-21",
+  "fecha-hasta": "2026-10-21",
   "desde": "01:00",
   "hasta": "23:59",
   "v2": {
