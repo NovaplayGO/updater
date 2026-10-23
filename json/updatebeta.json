@@ -1,16 +1,17 @@
 {
-    "version": "5.2.7",
-    "version_code": 527,
-    "min-version": "5.2.6",
-    "min-version_code": 526,
+    "version": "5.2.8",
+    "version_code": 528,
+    "min-version": "5.2.8",
+    "min-version_code": 528,
     "size": "17.8 MB",
     "force_update": false,
     "apk_url": "https://github.com/NovaplayGO/updater/raw/main/apks/novaplaybeta.apk",
     "changelog": [
+        "NUEVO: Opción para reseteo del núcleo de la app, para reiniciar tras fallas en canales Flow.",
         "NUEVO: Menú de ajustes con acceso a Mi Cuenta, Perfil de Rendimiento, Uso de Datos y más.",
         "OPTIMIZADO: Resolución 480p predeterminada en dispositivos de bajo rendimiento para mayor estabilidad.",
         "REPARADO: Solucionado un error que impedía cargar algunos logotipos de canales.",
         "REPARADO: Corregidos errores que provocaban cierres inesperados."
     ],
-    "date": "2026-10-23T22:51:34Z"
+    "date": "2026-10-23T22:56:25.167Z"
 }
