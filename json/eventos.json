@@ -1,9 +1,9 @@
 {
-  "texto": "A24 PARAGUAY, EDUCANAL Y RIO FM 105.1 (SECCIÓN PARAGUAY) AGREGADOS A LA GRILLA DE CANALES",
+  "texto": "Nuevo Canales en Grilla Argentina: El Trece Internacional, Encuentro, Cine-Ar, Volver, Canal A, Canal de la Ciudad",
   "activo": true,
-  "eventoVersion": 104,
+  "eventoVersion": 105,
   "fecha": "2026-10-21",
-  "fecha-hasta": "2026-10-23",
+  "fecha-hasta": "2026-12-31",
   "desde": "01:00",
   "hasta": "23:59",
   "v2": {
