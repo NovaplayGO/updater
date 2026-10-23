@@ -1,7 +1,7 @@
 {
   "texto": "Señal Tigo Sports Canal 1 activada. Disculpen la tardanza. Dar a recargar y funcionara.",
-  "activo": true,
-  "eventoVersion": 108,
+  "activo": false,
+  "eventoVersion": 109,
   "fecha": "2026-10-21",
   "fecha-hasta": "2026-12-31",
   "desde": "01:00",
