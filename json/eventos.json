@@ -1,7 +1,7 @@
 {
-  "texto": "SEÑAL TIGO SPORT (CANAL 1) YA ACTIVADO Y DISPONIBLE.",
+  "texto": "PARA LOS NUEVOS EVENTOS EN EMISION SE REQUIERE NOVAPLAY 5.2.8",
   "activo": true,
-  "eventoVersion": 114,
+  "eventoVersion": 115,
   "fecha": "2026-10-21",
   "fecha-hasta": "2026-12-31",
   "desde": "01:00",
