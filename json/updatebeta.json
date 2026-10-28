@@ -1,8 +1,8 @@
 {
-    "version": "5.2.8",
-    "version_code": 528,
-    "min-version": "5.2.8",
-    "min-version_code": 528,
+    "version": "5.2.9",
+    "version_code": 529,
+    "min-version": "5.2.9",
+    "min-version_code": 529,
     "size": "17.8 MB",
     "force_update": false,
     "apk_url": "https://github.com/NovaplayGO/updater/raw/main/apks/novaplaybeta.apk",
