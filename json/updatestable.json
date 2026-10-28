@@ -1,12 +1,12 @@
 {
-    "version": "5.2.8",
-    "version_code": 528,
-    "min-version": "5.2.8",
-    "min-version_code": 528,
+    "version": "5.2.9",
+    "version_code": 529,
+    "min-version": "5.2.9",
+    "min-version_code": 529,
     "size": "17.8 MB",
     "force_update": false,
     "apk_url": "https://github.com/NovaplayGO/updater/raw/main/apks/novaplay.apk",
-    "texto": "Actualización Obligatoria",
+    "texto": "Corrección Menor - Indispensable para ver TIGO SPORTS",
     "changelog": [
         "AJUSTE: Se actualizaron los parches de seguridad de la app.",
         "NUEVO: Se implementó un nuevo sistema para visualizar canales externos de Eventos (MLS entre otros) - SOLO EVENTOS",
@@ -16,5 +16,5 @@
         "REPARADO: Solucionado un error que impedía cargar algunos logotipos de canales.",
         "REPARADO: Corregidos errores que provocaban cierres inesperados."
     ],
-    "date": "2026-10-26T16:52:08.355Z"
+    "date": "2026-10-28T00:19:38.105Z"
 }
