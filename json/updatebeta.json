@@ -7,13 +7,13 @@
     "force_update": false,
     "apk_url": "https://github.com/NovaplayGO/updater/raw/main/apks/novaplaybeta.apk",
     "changelog": [
-        "AJUSTE: Se actualizaron los parches de seguridad de la app",
-        "NUEVO: Se implementó un nuevo sistema para visualizar canales externos de Eventos (MLS entre otros) - SOLO EVENTOS",
-        "NUEVO: Opción Mantenimiento en Ajustes (Limpia Cache, Sistema Interno de la app si se presentan fallas)",
-        "NUEVO: Menú de ajustes con acceso a Mi Cuenta, Perfil de Rendimiento, Uso de Datos y más.",
-        "OPTIMIZADO: Resolución 480p predeterminada en dispositivos de bajo rendimiento para mayor estabilidad.",
-        "REPARADO: Solucionado un error que impedía cargar algunos logotipos de canales.",
-        "REPARADO: Corregidos errores que provocaban cierres inesperados."
+        "NUEVO: Sistema inteligente de resolución automática para canales de eventos y enlaces externos.",
+        "NUEVO: Miniatura discreta del logotipo en la esquina inferior derecha durante la reproducción de eventos.",
+        "NUEVO: Reporte de actividad en tiempo real para control de dispositivos conectados.",
+        "AJUSTE: Calidad de video adaptada y predefinida según el rendimiento del dispositivo (Modesto a 480p, Equilibrado a 720p).",
+        "AJUSTE: Ocultamiento de la opción automática en el menú de calidad para dispositivos en modo modesto.",
+        "REPARADO: Solucionado el error 403 que impedía la reproducción de algunos canales externos de terceros.",
+        "REPARADO: Corregido el funcionamiento del botón Back (Retroceso) en televisores para regresar al menú de Ajustes."
     ],
-    "date": "2026-10-26T16:27:49Z"
+    "date": "2026-10-28T12:28:04Z"
 }
