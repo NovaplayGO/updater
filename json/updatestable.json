@@ -8,6 +8,7 @@
     "apk_url": "https://github.com/NovaplayGO/updater/raw/main/apks/novaplay.apk",
     "texto": "Actualización Obligatoria",
     "changelog": [
+        "REPARADO: Se solucionó un error que impedia el correcto funcionamiento del Evento T¡G0 $P0RT$",
         "AJUSTE: Se actualizaron los parches de seguridad de la app.",
         "NUEVO: Se implementó un nuevo sistema para visualizar canales externos de Eventos (MLS entre otros) - SOLO EVENTOS",
         "NUEVO: Opción Mantenimiento en Ajustes (Limpia Cache, Sistema Interno de la app si se presentan fallas)",
