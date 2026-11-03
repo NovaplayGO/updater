@@ -1,7 +1,7 @@
 {
-  "texto": "Aviso: Señales de Tigo colapsadas. Presentamos inestabilidad. Disculpe los inconvenientes",
-  "activo": false,
-  "eventoVersion": 128,
+  "texto": "Nos encontramos realizando mejoras en el servidor de la App para una nueva versión. Podria existir inestabilidad en la carga de canales.-",
+  "activo": true,
+  "eventoVersion": 129,
   "fecha": "2026-10-21",
   "fecha-hasta": "2026-12-31",
   "desde": "01:00",
