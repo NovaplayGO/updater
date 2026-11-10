@@ -3,11 +3,11 @@
     "version_code": 531,
     "min-version": "5.3.1",
     "min-version_code": 531,
-    "size": "17.8 MB",
+    "size": "17.9 MB",
     "force_update": true,
     "apk_url": "https://github.com/NovaplayGO/updater/raw/main/apks/novaplaybeta.apk",
     "changelog": [
         "ACTUALIZACIÓN OBLIGATORIA. SE REALIZARON AJUSTES DE SEGURIDAD"
     ],
-    "date": "2026-11-10T14:25:24.219Z"
+    "date": "2026-11-10T14:27:36Z"
 }
