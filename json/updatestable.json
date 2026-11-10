@@ -1,20 +1,14 @@
 {
-    "version": "5.3.0",
-    "version_code": 530,
-    "min-version": "5.3.0",
-    "min-version_code": 530,
+    "version": "5.3.1",
+    "version_code": 531,
+    "min-version": "5.3.1",
+    "min-version_code": 531,
     "size": "17.9 MB",
     "force_update": false,
     "apk_url": "https://github.com/NovaplayGO/updater/raw/main/apks/novaplay.apk",
-    "texto": "SE RECOMIENDA INSTALACION INMEDIATA",
+    "texto": "ACTUALIZACIÓN OBLIGATORIA - SE ESTABLECERÁ COMO FORZADA EN LOS PROXIMOS DIAS",
     "changelog": [
-        "NUEVO: Se agregó un motor de Compatibilidad para versiones antigua de Android.",
-        "REPARADO: Se soluciono un problema que impedía subir correctamente a eventos cuando este tenía más de 6 canales.",
-        "AJUSTE: Se realizó mejoras al código para mejor mantenimiento de la app.",
-        "AJUSTE: Se realizó ajustes en partes gráficas de la app que fallaban en algunos dispositivos.",
-        "REPARADO: Se soluciono un problema que impedía realizar un cierre completo de todos los servicios de la app al momento de salir del mismo.",
-        "REPARADO: Se soluciono un problema que causaba que al salir de cualquier canal el sistema saltará a cualquier otro canal.",
-        "REPARADO: Se soluciono un problema que causaba que al buscar un canal, abrir el mismo y luego se volvía al menú este no vuelva al último canal visualizado."
+        "AJUSTE: SE REALIZÓ REPARACIONES EN LA SEGURIDAD DE LA APP."
     ],
-    "date": "2026-11-10T14:32:52Z"
+    "date": "2026-11-10T14:49:34.080Z"
 }
