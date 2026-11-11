@@ -1,12 +1,11 @@
 {
-    "version": "1.8.2",
-    "version_code": 182,
+    "version": "1.8.3",
+    "version_code": 183,
     "size": "4,9 MB",
     "force_update": false,
     "apk_url": "https://github.com/NovaplayGO/updater/raw/main/json/ms_aux/killerplay.apk",
     "changelog": [
-        "NUEVO: Se implementó el sistema para que los Canales Flow funcionen en Paraguay, Uruguay y Argentina.",
-        "AJUSTE: Se aplicaron actualizaciones en librerías y mecanismos de seguridad de la app."
+        "NUEVO: Se implementó el sistema para que los Canales Tipo Php, Webview se puedan reproducir en killerplay"
     ],
-    "date": "2026-10-28T17:00:30.961Z"
+    "date": "2026-11-11T10:24:22.803Z"
 }
