@@ -1,11 +1,11 @@
 {
-    "version": "1.3.7",
-    "version_code": 137,
+    "version": "1.3.8",
+    "version_code": 138,
     "size": "",
     "force_update": true,
     "apk_url": "https://github.com/novaplaygo/updater/raw/main/apks/novapanel.apk",
     "changelog": [
-        "AJUSTE: SE REALIZÓ AJUSTES DE SEGURIDAD EN EL SISTEMA DE LA APP."
+        "REPARADO: Error al intentar desactivar un dispositivo de un usuario o actualizar el estado en el sistema"
     ],
-    "date": "2026-11-09T23:56:46.924Z"
+    "date": "2026-11-12T11:42:12.528Z"
 }
