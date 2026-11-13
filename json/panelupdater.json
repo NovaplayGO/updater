@@ -1,11 +1,11 @@
 {
-    "version": "1.3.9",
-    "version_code": 139,
+    "version": "1.3.7",
+    "version_code": 137,
     "size": "",
-    "force_update": true,
+    "force_update": false,
     "apk_url": "https://github.com/novaplaygo/updater/raw/main/apks/novapanel.apk",
     "changelog": [
         "CAMBIOS: Migrado a Nuevo Servidor"
     ],
-    "date": "2026-11-13T20:38:49.164Z"
+    "date": "2026-11-13T22:58:02.294Z"
 }
