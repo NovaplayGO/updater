@@ -33,7 +33,7 @@ jobs:
           key = os.environ['SUPABASE_SERVICE_ROLE_KEY'].strip()
 
           # ESTRATEGIA DUAL: NovaLogic (Nuevo) y novaconnect (Retrocompatibilidad)
-          buckets = ["NovaLogic", "novaconnect"]
+          buckets = ["NovaLogic"]
           headers = {
               "Authorization": f"Bearer {key}",
               "apikey": key,
