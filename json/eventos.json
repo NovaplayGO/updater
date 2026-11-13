@@ -1,14 +1,14 @@
 {
-  "texto": "",
-  "activo": false,
-  "eventoVersion": 136,
+  "texto": "INFORMAMOS QUE ESTAREMOS ACTUALIZANDO DE FORMA URGENTE LA APP EN UNAS HORAS. SENTIMOS LOS INCONVENIENTES.-",
+  "activo": true,
+  "eventoVersion": 137,
   "fecha": "2026-10-21",
   "fecha-hasta": "2026-12-31",
   "desde": "01:00",
   "hasta": "23:59",
   "v2": {
-    "popupVersion": 24,
-    "activado": true,
+    "popupVersion": 25,
+    "activado": false,
     "titulo": "📢 INFORMACIÓN",
     "parrafos": [
       "Estamos migrando nuestro sistema Central por lo que puede ocurrir:",
