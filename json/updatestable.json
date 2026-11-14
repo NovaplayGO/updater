@@ -1,14 +1,17 @@
 {
-    "version": "5.3.1",
-    "version_code": 531,
-    "min-version": "5.3.1",
-    "min-version_code": 531,
+    "version": "5.3.5",
+    "version_code": 535,
+    "min-version": "5.3.5",
+    "min-version_code": 535,
     "size": "17.8 MB",
     "force_update": true,
     "apk_url": "https://github.com/NovaplayGO/updater/raw/main/apks/novaplay.apk",
     "texto": "ACTUALIZACIÓN OBLIGATORIA",
     "changelog": [
-        "AJUSTE: SE REALIZÓ REPARACIONES EN LA SEGURIDAD DE LA APP."
+        "Ajustes: Se realizó una actualización en los sistemas de Defensa de la App.",
+        "Ajustes: Se reparó un error de lógica con los eventos.",
+        "Ajustes: Se optimizó la conexión con el servidor nuevo.",
+        "Ajustes: Se repararon errores causados por la migración."
     ],
-    "date": "2026-11-14T14:12:16Z"
+    "date": "2026-11-14T14:29:36.919Z"
 }
