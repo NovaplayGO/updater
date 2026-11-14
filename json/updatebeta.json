@@ -1,13 +1,16 @@
 {
-    "version": "5.3.2",
-    "version_code": 532,
-    "min-version": "5.3.2",
-    "min-version_code": 532,
+    "version": "5.3.5",
+    "version_code": 535,
+    "min-version": "5.3.5",
+    "min-version_code": 535,
     "size": "17.8 MB",
     "force_update": true,
     "apk_url": "https://github.com/NovaplayGO/updater/raw/main/apks/novaplaybeta.apk",
     "changelog": [
-        "AJUSTE: SE MIGRÓ AL NUEVO SERVIDOR. DISCULPEN POR EL INCONVENIENTE DE UNA NUEVA ACTUALIZACIÓN T.T"
+        "Ajustes: Se realizó una actualización en los sistemas de Defensa de la App.",
+        "Ajustes: Se reparó un error de lógica con los eventos.",
+        "Ajustes: Se optimizó la conexión con el servidor nuevo.",
+        "Ajustes: Se repararon errores causados por la migración."
     ],
-    "date": "2026-11-14T13:59:07Z"
+    "date": "2026-11-14T14:29:50.693Z"
 }
