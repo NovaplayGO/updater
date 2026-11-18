@@ -1,20 +1,17 @@
 {
   "texto": "RECOMENDAMOS SALIR DE LA APP Y VOLVER A INGRESAR O DAR AL BOTON RECARGA PARA OBTENER LA ACTUALIZACION DE LOS CANALES DE TIGO SPORTS. YA QUE ESTOS CAMBIARON SU SISTEMA DE CONEXIÓN EN ESTE INSTANTE. 17:05",
-  "activo": true,
-  "eventoVersion": 139,
+  "activo": false,
+  "eventoVersion": 140,
   "fecha": "2026-10-21",
   "fecha-hasta": "2026-12-31",
   "desde": "01:00",
   "hasta": "23:59",
   "v2": {
-    "popupVersion": 25,
-    "activado": false,
-    "titulo": "📢 INFORMACIÓN",
+    "popupVersion": 26,
+    "activado": true,
+    "titulo": "📢 AVISO",
     "parrafos": [
-      "Estamos migrando nuestro sistema Central por lo que puede ocurrir:",
-      "- Inestabilidad en los canales",
-      "- Cierre de sesión ",
-      "- También tendremos nuevamente una actualización en los próximos días. Ya que es una migración completa del servicio central de la app."
+      "NOS ENCONTRAMOS CON INCONVENIENTES EN LOS CANALES FLOW Y ESTAMOS INTENTANDO SOLUCIONARLOS. DISCULPEN LOS INCONVENIENTES."
     ]
   },
   "mostrarEnReproductor": true
