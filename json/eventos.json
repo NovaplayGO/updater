@@ -7,11 +7,11 @@
   "desde": "01:00",
   "hasta": "23:59",
   "v2": {
-    "popupVersion": 26,
+    "popupVersion": 27,
     "activado": true,
     "titulo": "📢 AVISO",
     "parrafos": [
-      "NOS ENCONTRAMOS CON INCONVENIENTES EN LOS CANALES FLOW Y ESTAMOS INTENTANDO SOLUCIONARLOS. DISCULPEN LOS INCONVENIENTES."
+      "SE SOLUCIONO EL INCONVENIENTE DE LOS CANALES FLOW DE PARTE DEL SERVIDOR. SEGUIMOS ANALIZANDO POR SEGURIDAD."
     ]
   },
   "mostrarEnReproductor": true
