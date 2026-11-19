@@ -7,8 +7,10 @@
     "force_update": false,
     "apk_url": "https://github.com/NovaplayGO/updater/raw/main/apks/novaplaybeta.apk",
     "changelog": [
+        "AJUSTE: Se estableció el Motor de Compatibilidad para Android 7 al 10 - El motor Moderno desde Android 11 al Actual.",
+        "AJUSTE: Se Optimizó el sistema de la app para Dispositivos de bajos recursos.",
         "REPARADO: Se corrigió un problema que causaba el cierre de sesión en ciertas ocasiones aleatorias.",
-        "REPARADO: Se solucionó un problema que permitía que el zócalo y el menú de canales se sobrepongan al abrirse este ultimo."
+        "REPARADO: Se solucionó un problema que permitía que el zócalo y el menú de canales se sobrepongan al abrirse este último."
     ],
-    "date": "2026-11-18T21:26:33Z"
+    "date": "2026-11-19T15:52:02.108Z"
 }
