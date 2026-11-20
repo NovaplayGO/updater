@@ -1,7 +1,7 @@
 {
-  "texto": "RECOMENDAMOS SALIR DE LA APP Y VOLVER A INGRESAR O DAR AL BOTON RECARGA PARA OBTENER LA ACTUALIZACION DE LOS CANALES DE TIGO SPORTS. YA QUE ESTOS CAMBIARON SU SISTEMA DE CONEXIÓN EN ESTE INSTANTE. 17:05",
-  "activo": false,
-  "eventoVersion": 140,
+  "texto": "Informamos que por inconvenientes externos no nos sera posible transmitir en alta calidad tigo SPORT",
+  "activo": true,
+  "eventoVersion": 141,
   "fecha": "2026-10-21",
   "fecha-hasta": "2026-12-31",
   "desde": "01:00",
