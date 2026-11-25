@@ -1,7 +1,7 @@
 {
-  "texto": "OLIMPIA CAMPEÓN TORNEO CLAUSURA 2026",
-  "activo": false,
-  "eventoVersion": 144,
+  "texto": "Informamos que la sección Eventos Futbol se encuentra temporalmente no disponible por inconvenientes con el proveedor",
+  "activo": true,
+  "eventoVersion": 145,
   "fecha": "2026-10-21",
   "fecha-hasta": "2026-12-31",
   "desde": "01:00",
@@ -14,5 +14,5 @@
       "SE SOLUCIONO EL INCONVENIENTE DE LOS CANALES FLOW DE PARTE DEL SERVIDOR. SEGUIMOS ANALIZANDO POR SEGURIDAD."
     ]
   },
-  "mostrarEnReproductor": true
+  "mostrarEnReproductor": false
 }
