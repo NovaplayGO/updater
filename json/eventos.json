@@ -1,7 +1,7 @@
 {
-  "texto": "Informamos que la sección Eventos Futbol se encuentra temporalmente no disponible por inconvenientes con el proveedor",
+  "texto": "Canales TNT Sports UK fueron añadidos a la grilla. ---  Los canales Premier Sports fueron reparados.",
   "activo": true,
-  "eventoVersion": 145,
+  "eventoVersion": 146,
   "fecha": "2026-10-21",
   "fecha-hasta": "2026-12-31",
   "desde": "01:00",
@@ -14,5 +14,5 @@
       "SE SOLUCIONO EL INCONVENIENTE DE LOS CANALES FLOW DE PARTE DEL SERVIDOR. SEGUIMOS ANALIZANDO POR SEGURIDAD."
     ]
   },
-  "mostrarEnReproductor": false
+  "mostrarEnReproductor": true
 }
