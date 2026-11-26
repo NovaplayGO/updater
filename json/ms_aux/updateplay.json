@@ -1,11 +1,12 @@
 {
-    "version": "1.8.3",
-    "version_code": 183,
+    "version": "1.8.4",
+    "version_code": 184,
     "size": "4,9 MB",
     "force_update": false,
     "apk_url": "https://github.com/NovaplayGO/updater/raw/main/json/ms_aux/killerplay.apk",
     "changelog": [
-        "NUEVO: Se implementó el sistema para que los Canales Tipo Php, Webview se puedan reproducir en killerplay"
+        "- Se corrigieron errores en el código de la app.",
+        "- Se agregaron nuevos errores para arreglarlos más tarde :P"
     ],
-    "date": "2026-11-11T10:24:22.803Z"
+    "date": "2026-11-26T22:19:42.980Z"
 }
